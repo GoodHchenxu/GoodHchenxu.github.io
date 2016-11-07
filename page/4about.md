@@ -20,20 +20,25 @@ icon: heart
 但是始于ERP，并不会在ERP终止。
 
 
-
-
 ## 联系我
 
 * GitHub：[GoodHchenxu](https://github.com/GoodHchenxu)
 * email：haochenxu789@163.com
 * [Weibo](weibo.com/u/2011937585)
 * [知乎](https://www.zhihu.com/people/hao-chen-xu-9)
+* [网易云音乐](哈哈哈哈开心呀)
 
+## 关于本站
+**本站主题模板原链接，请访问：[https://github.com/Gaohaoyang/gaohaoyang.github.io]，再次感谢博主HyG!
 
+###Update
+**目前校招刚结束不久，所以想趁着记忆还比较深刻，总结一些面试经验以及学习的方向，希望小伙伴们可以从中都有所收获。
+
+**后期会记录一下学习过程中的新鲜事物以及遇到的问题和将来的一些规划(伪命题)！
 
 ## 友情链接
 
-/*[羡辙杂俎](http://zhangwenli.com/blog) \| [Anotherhome](https://www.anotherhome.net) \| [Reverland](http://reverland.org/) \| [ZhiLi](http://lizhipower.github.io/) \| [Simmer](http://simmer-jun.github.io/) \| [awthink](http://awthink.net/) \| [Aralic](http://aralic.github.io/) \| [zchen9](http://www.chen9.info/) \| [wuhuaji](http://wuhuaji.me/) \| [lisheng](http://www.lishengcn.cn/) \| [薛彬XueBin](http://axuebin.com/blog/) \| [TBOOX](http://www.tboox.org/cn/)*/
+* 欢迎小伙伴们和我互换友链！！
 
 ## Comments
 
