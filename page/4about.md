@@ -10,13 +10,15 @@ icon: heart
 
 ## 关于我
 首先非常感谢HyG提供的主题模板！！
+
 目前大四，长安大学通信工程专业，放弃考研后无奈自学Java半载，不断的积累，
+
 也算是有了点回报，校招拿了几个offer(打工录取通知书)，然而由于自身实力太弱，
+
 没有拿到互联网公司的offer，只好签了金蝶(为了谋生活)。
-但是我觉得始于ERP，并不会在ERP终止。
-学习，使我烦躁两年半的内心得到很大的平静。
-选择了这份工作，自己有了很多的危机感，在今后不断的进步中，
-通过博客来与大家分享！
+
+但是始于ERP，并不会在ERP终止。
+
 
 
 
@@ -24,12 +26,9 @@ icon: heart
 
 * GitHub：[GoodHchenxu](https://github.com/GoodHchenxu)
 * email：haochenxu789@163.com
-* [Weibo]()
+* [Weibo](weibo.com/u/2011937585)
 * [知乎](https://www.zhihu.com/people/hao-chen-xu-9)
-* [Facebook]()
-* [Twitter]()
-* [豆瓣]()
-* [豆瓣音乐人-浩阳的小站](https://site.douban.com/haoyangaiyinyue/)
+
 
 
 ## 友情链接
