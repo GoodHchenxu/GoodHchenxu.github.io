@@ -29,7 +29,9 @@ icon: heart
 * [网易云音乐](哈哈哈哈开心呀)
 
 ## 关于本站
-**本站主题模板原链接，请访问：[https://github.com/Gaohaoyang/gaohaoyang.github.io]，再次感谢博主HyG!
+**本站主题模板原链接，请访问：[https://github.com/Gaohaoyang/gaohaoyang.github.io]**
+
+再次感谢博主HyG!
 
 ###Update
 **目前校招刚结束不久，所以想趁着记忆还比较深刻，总结一些面试经验以及学习的方向，希望小伙伴们可以从中都有所收获。
