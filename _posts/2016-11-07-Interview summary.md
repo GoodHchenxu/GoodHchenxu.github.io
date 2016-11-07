@@ -244,6 +244,26 @@ MyIASM是MySQL默认的引擎，但是它没有提供对数据库事务的支持
 
 好像还可使使用Redis进行并发控制！
 
+```js
+private ThreadwisePool pool;
+
+public RedisMutex(string host)
+{
+    this.pool = new ThreadwisePool(host);
+}
+
+public UnlockDelegate Lock(string key, int expires = 5)
+{
+    var client = this.pool.GetClient();
+    var ok = client.SetNX(key, string.Empty);
+    if (!ok)
+        return null;
+
+    client.Expire(key, new TimeSpan(0, 0, expires));
+    return () => client.Del(key);
+}
+```
+
 还有面试被问到一些概念性的东西尽量转换成自己的理解然后去解释，死背概念没有用！！
 
 ---
